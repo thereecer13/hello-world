@@ -1,4 +1,3 @@
-# hello-world
-Just another repository
+# project-euler-solutions
 
-I am a student. Did you know that the lobster becomes more fertile as it ages?
+My Python 3 solutions to Project Euler problems.
